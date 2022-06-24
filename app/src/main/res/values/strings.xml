@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application User Preferences For Dummies</string>
+    <string name="title_what_is_your_name">Qual o seu nome?</string>
+    <string name="text_enter_your_name">Digite o seu nome?</string>
+    <string name="title_save_data">Salvar</string>
+    <string name="title_Preference_Loaded_Data">Olá, usuário não identificado</string>
+    <string name="sub_title_Preference_Loaded_Data">usuário não identificado</string>
+</resources>
